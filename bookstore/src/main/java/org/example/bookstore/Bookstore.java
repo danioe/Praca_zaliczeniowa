@@ -3,9 +3,6 @@ package org.example.bookstore;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Klasa reprezentująca księgarnię, która przechowuje i zarządza książkami.
- */
 public class Bookstore {
     private List<Book> books;
 
